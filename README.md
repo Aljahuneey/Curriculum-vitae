@@ -18,6 +18,8 @@ Detail-oriented Human Anatomy graduate with a burgeoning specialization in Genom
 ### Bachelor of Science (B.Sc.) in Human Anatomy
 **Sa’adu Zungur University** | *Bauchi State, Nigeria*  
 *2020 – 2025*
+Bachelor's thesis dealt with computational approaches to identify potential diagnostic and therapeutic biomarkers in cervical cancer. Used microarray expression data (GSE63514 / GPL570 platform) from NCBI GEO to analyze 128 tissue samples (11 cancer vs. 11 normal controls). Identified 155 differentially expressed genes (DEGs) and 6 core hub genes (CDKN2A, CXCR4, CRNN, SPINK5, GBP6, IFI44) via R/Bioconductor and protein-protein interaction network profiling.
+
 * **Relevant Coursework:** Cell and Molecular Biology, Human Genetics, Genetics and Cytogenetics, Neuroanatomy, Biological Anthropology, Histology and Histochemistry, Embryology, Teratology, Reproductive Technology, ImmunoBiology, Forensic Science, Information Technology, and Bioinformatics.
 
 ---
